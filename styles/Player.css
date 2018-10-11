@@ -1,0 +1,17 @@
+/*
+  Player styles
+*/
+
+.player {
+  display: flex;
+  font-size: 1.2em;
+  border-bottom: 1px solid #ccc;
+  letter-spacing: 2px;
+}
+
+.player__name {
+  padding: 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

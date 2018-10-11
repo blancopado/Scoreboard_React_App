@@ -1,0 +1,19 @@
+/*
+  Button styles
+*/
+
+.button {
+  background-color: #f0f0f0;
+  border: 1px solid #f0f0f0;
+  padding: 10px 15px;
+  font: 700 13px/18px Helvetica, arial;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #e7e7e7;
+}
+
+.button--remove {
+  color: #8b0000;
+}

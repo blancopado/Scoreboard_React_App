@@ -1,0 +1,18 @@
+/*
+  App styles
+*/
+
+.scoreboard {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  overflow: hidden;
+  font-family: sans-serif;
+  width: 60%;
+  margin: 0 auto;
+}
+
+@media (max-width: 800px) {
+  .scoreboard {
+    width: 100%;
+  }
+}

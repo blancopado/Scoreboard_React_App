@@ -1,0 +1,16 @@
+/*
+  Stats styles
+*/
+
+.stats {
+  font-size: 1.1em;
+}
+.stats__title {
+  text-align: right;
+  letter-spacing: 2px;
+  font-size: 0.7em;
+}
+
+.stats__result {
+  width: 30px;
+}

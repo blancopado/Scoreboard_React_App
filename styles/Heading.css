@@ -1,0 +1,17 @@
+/*
+  Heading styles
+*/
+
+.heading {
+  display: flex;
+  background-color: cornFlowerBlue;
+  padding: 5px;
+  color: white;
+}
+
+.heading__title {
+  flex: 1;
+  letter-spacing: 3px;
+  font-weight: normal;
+  margin-left: 5%;
+}
